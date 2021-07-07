@@ -1,5 +1,4 @@
 import { Component, Input, OnChanges } from "@angular/core";
-import { start } from "repl";
 
 @Component({
   selector: "app-star",
